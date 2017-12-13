@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"webbroswer"
+			],
+			[
+				"tra",
+				"trailer_youtube"
+			],
+			[
+				"po",
+				"poster_image"
+			],
+			[
+				"m",
+				"movie_storyline"
+			],
+			[
+				"mo",
+				"movie_title"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"ye",
+				"year"
+			],
+			[
+				"l",
+				"leap_year"
+			],
+			[
+				"y",
+				"year"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/James_FORT/Desktop/fresh_tomatoes/fresh_tomatoes.html",
+		"/C/Users/James_FORT/Desktop/fresh_tomatoes/index.py",
+		"/C/Users/James_FORT/Desktop/fresh_tomatoes/media.py",
+		"/C/Users/James_FORT/Desktop/fresh_tomatoes/fresh_tomatoes.py",
+		"/C/Users/James_FORT/Desktop/FORMULAIRE A BIEN REMP.pdf",
+		"/C/Users/James_FORT/Desktop/FORMULAIRE A BIEN REMPl.pdf",
+		"/C/Users/James_FORT/Desktop/Python_Code/leapyear_baby.py",
+		"/C/Users/James_FORT/Desktop/Python_Code/simple_old_days",
+		"/C/Users/James_FORT/Desktop/Python_Code/# By Websten from forums.py",
+		"/C/Users/James_FORT/Desktop/Python_Code/abacus.py",
+		"/C/Users/James_FORT/Desktop/# By Sam the Great from forums.py",
+		"/C/Users/James_FORT/Desktop/# By Websten from forums.py",
+		"/D/JAMES FORT/JameslyFORTUNAT1/DevAvril/Index.cpp",
+		"/C/Users/James_FORT/Desktop/ESIH Test/PL_Location/ProjetLocation/PLlocation/fenetre/afficher_vehicule.cpp",
+		"/C/Users/James_FORT/Desktop/ESIH Test/PL_Location/ProjetLocation/PLlocation/fenetre/enregistrer_location.cpp",
+		"/C/Users/James_FORT/Desktop/ESIH Test/PL_Location/ProjetLocation/PLlocation/fenetre/modifier_vehicules.cpp",
+		"/C/Users/James_FORT/Desktop/ESIH Test/PL_Location/ProjetLocation/PLlocation/fenetre/modifier_client.cpp",
+		"/C/Users/James_FORT/Desktop/PROJECT/PL_location/main.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/fenetreprincipal.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/fenetreprincipal.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/main.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_client.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_location.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_client.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_location.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_vehicules.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_vehicules.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_client.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/modifier_client.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_client.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_client.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_location.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_location.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_vehicule.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_vehicules.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/recherche_vehicules.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_vehicule.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_client.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_client.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_location.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/afficher_location.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_location.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_location.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_vehicules.cpp",
+		"/C/Users/James_FORT/Pictures/PROJECT/NONO_RENTAL/savevehicule.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/enregistrer_vehicules.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetre/fenetre.pro",
+		"/C/Users/James_FORT/Desktop/PROJECT/PL_location/Pl_location.pro",
+		"/C/Users/James_FORT/Desktop/james.txt",
+		"/D/JAMES FORT/JameslyFORTUNAT1/DevAvril/fendev.cpp",
+		"/E/Finallprojet/finall.cpp",
+		"/C/Users/James_FORT/Desktop/Pl_loca/Pl_loca.pro",
+		"/C/Users/James_FORT/Desktop/GestionCIM/index.php",
+		"/C/Users/James_FORT/Desktop/GestionCIM/prof.php",
+		"/C/Users/James_FORT/Desktop/GestionCIM/connexion.php",
+		"/C/Users/James_FORT/Desktop/GestionCIM/adm.php",
+		"/D/JAMES FORT/JameslyFORTUNAT1/Formulaire/form.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetrepro.h",
+		"/C/Users/James_FORT/Desktop/PL_Location/fenetre/fenetreprincipal.h",
+		"/C/Users/James_FORT/Desktop/PLlocation/PLlocation.pro",
+		"/C/Users/James_FORT/Desktop/PLlocation/index.cpp",
+		"/C/Users/James_FORT/Desktop/PLlocation/fenetrepro.cpp",
+		"/C/Users/James_FORT/Desktop/PL_Location/fenetre/fenetreprincipal.cpp",
+		"/C/Users/James_FORT/Desktop/PL_Location/fenetre/main.cpp",
+		"/C/Users/James_FORT/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/James_FORT/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,107 @@
+import datetime
+
+
+class Movie:
+    def __init__(self, movie_title, movie_storyline, poster_image, trailler_youtube):
+        self.title = movie_title
+        self.story = movie_storyline
+        self.poster = poster_image
+        self.trailler = trailler_youtube
+
+avatar = Movie("avatar","about avatar....","link to the poster","link to the trailler on youtube")
+
+
+class Person:
+
+    TITLES = ("Dr","Mr","Mrs","Ms")
+
+    def __init__(self, title, name, surname, birthdate, adress, telephone, email):
+        if title not in self.TITLES:
+            raise ValueError("%s is not a valid title."%title)
+        self.title = title
+        self.name = name
+        self.surname = surname
+        self.birthdate = birthdate
+        self.adress = adress
+        self.telephone = telephone
+        self.email = email
+
+    def age(self):
+        today = datetime.date.today()
+        age = today.year - self.birthdate.year
+        if today < datetime.date(today.year, self.birthdate.month, self.birthdate.day):
+            age -= 1
+        return age
+
+    @property
+    def fullname(self):
+        return "%s %s" % (self.name, self.surname)
+
+    @fullname.setter
+    def fullname(self,value):
+        name, surname = value.split()
+        self.name = name
+        self.surname = surname
+
+    @fullname.deleter
+    def fullname(self):
+        del self.name
+        del self.surname
+james = Person(
+            "Mr",
+            "James",
+            "FORT",
+            datetime.date(1983, 9, 21),
+            "#27, Tabarre 48 ht6123 HAITI",
+            "509 4087 0058",
+            "jamesfort82@gmail.com")
+
+print(james.name)
+print(james.title,james.surname)
+print(james.age())
+print("*************\n")
+print("On me nomme",james.name, str(james.surname)+".\nJe suis ne en",james.birthdate.year,"et j'ai", james.age(),"ans", "ecris moi sur",james.email)
+print("*********\n")
+print(james.fullname)
+james.fullname = "Jamesly FORTUNAT"
+print("On me nomme",james.name, str(james.surname)+".\nJe suis ne en",james.birthdate.year,"et j'ai", james.age(),"ans", "ecris moi sur",james.email)
+
+class number:
+
+    MULTIPLIER = 5
+
+    def __init__(self,x,y):
+        self.x = x
+        self.y = y
+
+    def add(self):
+        return(self.x + self.y)
+    @classmethod
+    def multiply(self,a):
+        self.a = a
+        return a * self.MULTIPLIER
+
+    @staticmethod
+    def substrac(b,c):
+        return (b - c)
+
+    @property
+    def value(self):
+        return ({self.x,self.y})
+
+    @value.setter
+    def value(self,xytuple):
+        self.x, self.y = xytuple
+
+    @value.deleter
+    def value(self):
+        del self.x
+        del self.y
+
+aa = number(4,5)
+print(aa.add())
+print(aa.multiply(8))
+print(aa.substrac(12,6))
+print(aa.value)
+aa.value = {1, 2}
+print(aa.value)
